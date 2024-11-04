@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "scripts": [
+        {
+            "name": "1.0.0.sql",
+            "description": "Initial version of sql",
+            "version": 1
+        }
+    ]
+}
