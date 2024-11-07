@@ -101,8 +101,7 @@ UPDATE goals
 SET
     updated_at = datetime ('now')
 WHERE
-    id = NEW.id;
-
+    id = NEW.id
 END;
 
 CREATE TABLE
@@ -127,6 +126,5 @@ UPDATE metadata_goals
 SET
     updated_at = datetime ('now')
 WHERE
-    id = NEW.id;
-
+    id = NEW.id
 END;
