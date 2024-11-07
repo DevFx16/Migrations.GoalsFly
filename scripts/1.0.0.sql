@@ -1,5 +1,3 @@
-BEGIN TRANSACTION;
-
 CREATE TABLE
     configurations (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -132,5 +130,3 @@ WHERE
     id = NEW.id;
 
 END;
-
-COMMIT;
