@@ -1,10 +1,15 @@
 {
-    "version": 1,
+    "version": 2,
     "scripts": [
         {
             "name": "1.0.0.sql",
             "description": "Initial version of sql",
             "version": 1
+        },
+        {
+            "name": "1.0.1.sql",
+            "description": "Add currency",
+            "version": 2
         }
     ]
 }
