@@ -69,7 +69,7 @@ VALUES
 INSERT INTO
     currency (name, code)
 VALUES
-    ('Bosnia-Herzegovina Convertible Mark', 'BAM');
+    ('Bosnia Herzegovina Convertible Mark', 'BAM');
 
 -
 INSERT INTO
@@ -753,7 +753,7 @@ VALUES
 INSERT INTO
     symbol_currency (name, code)
 VALUES
-    ('Bosnia-Herzegovina Convertible Mark', 'KM');
+    ('Bosnia Herzegovina Convertible Mark', 'KM');
 
 -
 INSERT INTO
